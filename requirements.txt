@@ -1,0 +1,7 @@
+ipython
+pytz
+MySQL-python
+python-dateutil
+ansible
+docker-py
+boto
